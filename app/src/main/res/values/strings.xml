@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageCheck</string>
+
+    <string-array name="resolution">
+        <item>Small 200*150</item>
+        <item>Medium 500*400</item>
+        <item>Large 1000*800</item>
+
+    </string-array>
+</resources>
